@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React Seasons Display
+
+First project as part of Stephen Grider's Modern React with Redux course on Udemy, that I'm following as part of my path to learn React.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
